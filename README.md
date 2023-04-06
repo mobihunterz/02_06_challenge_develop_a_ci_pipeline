@@ -39,3 +39,4 @@ Help the team set up a continuous integration pipeline using a GitHub Actions st
                 include_passed: true
 
 This challenge should take about fifteen minutes to complete.
+
